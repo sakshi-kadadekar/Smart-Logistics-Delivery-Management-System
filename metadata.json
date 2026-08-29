@@ -1,0 +1,6 @@
+{
+  "name": "SwiftShip",
+  "description": "Smart Logistics & Delivery Management Platform with real-time tracking, dynamic pricing, and role-based workflows for customers, drivers, warehouse managers, and administrators.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
